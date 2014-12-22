@@ -1,7 +1,7 @@
 Meteor Trackduck
 ================
 
-Meteor package for TrackDuck - bug reporting for frontend and visuals.
+Meteor package for [TrackDuck](http://trackduck.com) - a visual feedback tool for web projects and mockups.
 
 Installation
 ------------
@@ -14,6 +14,12 @@ If you want to use "Anonymous feedback" feature you should add `TrackDuck` templ
 
     {{> TrackDuck id="[your id]"}}
 
+
+About TrackDuck
+---------------
+TrackDuck is a visual feedback tool for web pages, web apps, mockups or designs. With TrackDuck you can leave feedback directly on an image or website. Every comment has recorded screenshot, browser version, OS, resolution and marked location.
+
+To let it work, you'll need to go to [TrackDuck.com](https://app.trackduck.com) and create an account.
 
 License
 -------
