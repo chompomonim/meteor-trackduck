@@ -8,5 +8,5 @@ Installation
 
 Trackduck can be installed with Meteor's package manager:
 
-  $ meteor add chompomonim:trackduck
+    $ meteor add chompomonim:trackduck
 
