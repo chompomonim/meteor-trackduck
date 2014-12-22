@@ -12,7 +12,7 @@ Trackduck can be installed with Meteor's package manager:
 
 If you want to use "Anonymous feedback" feature you should add `TrackDuck` template into your main template.
 
-  {{> TrackDuck id="[your id]"}}
+    {{> TrackDuck id="[your id]"}}
 
 
 License
