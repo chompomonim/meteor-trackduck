@@ -1,3 +1,3 @@
 Meteor.startup(function () {
-  Meteor.Loader.loadJs("//tdcdn.blob.core.windows.net/toolbar/assets/prod/td.js");
+    Meteor.Loader.loadJs("//d1ks1friyst4m3.cloudfront.net/toolbar/prod/td.js");
 });

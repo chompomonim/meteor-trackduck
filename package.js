@@ -1,7 +1,7 @@
 Package.describe({
   name: 'chompomonim:trackduck',
   summary: 'Basic integration for TrackDuck.com',
-  version: '0.2.0',
+  version: '0.3.0',
   git: 'https://github.com/chompomonim/meteor-trackduck'
 });
 
